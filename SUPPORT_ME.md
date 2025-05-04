@@ -6,8 +6,7 @@ If you find this project helpful and would like to support its development, you 
 ## ☕ PayPal
 
 You can support me via PayPal using the link below:
-![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)
-[Paypal Link] (https://paypal.me/minhsu12113)
+[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.me/minhsu12113) 
 
 ## 📱 MoMo (Vietnam)
 
