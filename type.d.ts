@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 declare global {
 	interface ProgressData {
 		downloadedMB: number;
@@ -19,6 +20,9 @@ declare global {
 			renameFile: (oldPath: string, newPath: string) => Promise<string | undefined>;
 			deleteFile: (filePath: string) => Promise<boolean>;
 			openFileLocation: (filePath: string) => void;
+			
+      invoke: (channel: string, ...args: any[]) => Promise<any> | undefined;
+      on: (channel: string, callback: (...args: any[]) => void) => void;
 		};
 	}
 }

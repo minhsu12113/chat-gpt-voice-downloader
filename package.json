@@ -52,6 +52,7 @@
 		"cross-env": "^7.0.3",
 		"date-fns": "^3.6.0",
 		"electron-squirrel-startup": "^1.0.0",
+		"electron-updater": "^6.6.2",
 		"embla-carousel-react": "^8.3.0",
 		"i": "^0.3.7",
 		"i18n": "^0.15.1",
@@ -94,6 +95,17 @@
 		"vite": "^5.4.8",
 		"vite-plugin-electron": "^0.28.2"
 	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/minhsu12113/chat-gpt-voice-downloader"
+	},
+	"publish": {
+		"appId": "com.chat-gpt-voice-downloader",
+		"provider": "github",
+		"releaseType": "release",
+		"owner": "minhsu12113",
+		"repo": "chat-gpt-voice-downloader"
+	},
 	"build": {
 		"appId": "com.chat-gpt-voice-downloader.app",
 		"productName": "Chat GPT Voice Downloader",
@@ -104,13 +116,15 @@
 		"files": [
 			"dist/**/*",
 			"dist-electron/**/*",
-			"dist-react/**/*"
+			"dist-react/**/*",
+			"app-update.yml"
 		],
 		"win": {
-			"target": [
-				"portable",
-				"msi"
-			]
-		}
+			"target": [ 
+				"nsis"
+			],
+			"artifactName": "Chat-GPT-Voice-Downloader-Setup-${version}.exe" 
+		},
+		"generateUpdatesFilesForAllChannels": true
 	}
 }

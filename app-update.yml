@@ -1,0 +1,5 @@
+provider: github
+owner: minhsu12113
+repo: chat-gpt-voice-downloader
+publishAutoUpdate: true
+releaseType: release
