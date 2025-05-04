@@ -1,0 +1,15 @@
+{
+  "title": "Download Settings",
+  "description": "Configure where your MP3 files will be saved",
+  "downloadPath": {
+    "label": "Download Path",
+    "browse": "Browse",
+    "description": "This is where your downloaded MP3 files will be saved."
+  },
+  "toast": {
+    "pathUpdated": "Download Path Updated",
+    "pathUpdatedDesc": "Files will now be saved to: {{path}}",
+    "pathError": "Error",
+    "pathErrorDesc": "Failed to update download path"
+  }
+}

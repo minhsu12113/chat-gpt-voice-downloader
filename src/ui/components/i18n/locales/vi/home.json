@@ -1,0 +1,60 @@
+{
+  "appTitle": "Trình tải giọng nói",
+  "appDescription": "Nhập URL để tải các tệp MP3 và phát ngay lập tức",
+  "form": {
+    "placeholder": "Nhập URL giọng nói tại đây...",
+    "download": "Tải xuống",
+    "downloading": "Đang tải...",
+    "mb": "MB",
+    "mbps": "MB/s"
+  },
+  "player": {
+    "nowPlaying": "Đang phát",
+    "volume": "Âm lượng"
+  },
+  "history": {
+    "title": "Lịch sử tải xuống",
+    "description": "Các tệp MP3 bạn đã tải trước đây",
+    "empty": "Chưa có lịch sử tải xuống. Hãy tải một số tệp MP3 để xem chúng ở đây.",
+    "fileNotFound": "Không tìm thấy tệp",
+    "play": "Phát",
+    "openFolder": "Mở thư mục",
+    "rename": "Đổi tên",
+    "delete": "Xóa",
+    "ago": "{{time}} trước"
+  },
+  "tabs": {
+    "history": "Lịch sử tải xuống",
+    "settings": "Cài đặt"
+  },
+  "rename": {
+    "title": "Đổi tên tệp",
+    "description": "Nhập tên mới cho tệp này. Phần mở rộng của tệp sẽ được giữ nguyên.",
+    "label": "Tên tệp",
+    "cancel": "Hủy",
+    "confirm": "Đổi tên"
+  },
+  "delete": {
+    "title": "Xóa tệp",
+    "descriptionExists": "Điều này sẽ xóa tệp khỏi máy tính của bạn và xóa nó khỏi lịch sử.",
+    "descriptionMissing": "Điều này sẽ xóa tệp khỏi lịch sử của bạn.",
+    "confirmation": "Bạn có chắc chắn muốn xóa \"{{fileName}}\" không?",
+    
+    "cancel": "Hủy",
+    "confirm": "Xóa"
+  },
+  "toast": {
+    "downloadComplete": "Tải xuống hoàn tất",
+    "downloadCompleteDesc": "Đã lưu tệp dưới tên {{fileName}}",
+    "fileNotFound": "Không tìm thấy tệp",
+    "fileNotFoundDesc": "Tệp \"{{fileName}}\" không còn tồn tại tại vị trí đã chỉ định.",
+    "errorPlayingFile": "Lỗi khi phát tệp",
+    "fileRenamed": "Đã đổi tên tệp",
+    "fileRenamedDesc": "Tệp đã được đổi tên thành {{fileName}}",
+    "renameFailed": "Đổi tên thất bại",
+    "fileDeleted": "Đã xóa tệp",
+    "fileDeletedDesc": "\"{{fileName}}\" đã bị xóa khỏi lịch sử",
+    "deleteFailed": "Xóa thất bại",
+    "folderOpenFailed": "Không thể mở thư mục cho một tệp không còn tồn tại."
+  }
+}

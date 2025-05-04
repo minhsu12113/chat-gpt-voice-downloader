@@ -1,0 +1,21 @@
+{
+  "appTitle": "Tải MP3",
+  "footer": {
+    "copyright": "Tải MP3 © {{year}}"
+  },
+  "welcome": "Chào mừng",
+  "download": "Tải xuống",
+  "play": "Phát",
+  "delete": "Xóa",
+  "rename": "Đổi tên",
+  "settings": "Cài đặt",
+  "history": "Lịch sử",
+  "confirm": "Xác nhận",
+  "cancel": "Hủy",
+  "fileNotFound": "Tệp không tìm thấy",
+  "downloadComplete": "Tải xuống hoàn tất",
+  "fileDeleted": "Tệp đã bị xóa",
+  "fileRenamed": "Tệp đã được đổi tên",
+  "error": "Lỗi",
+  "success": "Thành công"
+}

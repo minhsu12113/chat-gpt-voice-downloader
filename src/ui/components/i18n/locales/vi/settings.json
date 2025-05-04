@@ -1,0 +1,15 @@
+{
+  "title": "Cài đặt tải xuống",
+  "description": "Cấu hình nơi lưu trữ các tệp MP3 của bạn",
+  "downloadPath": {
+    "label": "Đường dẫn tải xuống",
+    "browse": "Chọn thư mục",
+    "description": "Đây là nơi các tệp MP3 tải xuống của bạn sẽ được lưu."
+  },
+  "toast": {
+    "pathUpdated": "Đã cập nhật đường dẫn tải xuống",
+    "pathUpdatedDesc": "Các tệp sẽ được lưu vào: {{path}}",
+    "pathError": "Lỗi",
+    "pathErrorDesc": "Không thể cập nhật đường dẫn tải xuống"
+  }
+}

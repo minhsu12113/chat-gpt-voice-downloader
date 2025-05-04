@@ -1,0 +1,25 @@
+{
+  "appTitle": "MP3 Downloader",
+  "footer": {
+    "copyright": "MP3 Downloader © {{year}}"
+  },
+  "welcome": "Welcome to the application",
+  "download": "Download",
+  "delete": "Delete",
+  "rename": "Rename",
+  "cancel": "Cancel",
+  "confirm": "Confirm",
+  "success": "Success",
+  "error": "Error",
+  "fileNotFound": "File not found",
+  "fileDeleted": "File has been deleted",
+  "fileRenamed": "File has been renamed",
+  "downloadComplete": "Download complete",
+  "settings": "Settings",
+  "language": "Language",
+  "volume": "Volume",
+  "nowPlaying": "Now Playing",
+  "downloadHistory": "Download History",
+  "mp3Downloader": "MP3 Downloader",
+  "enterUrl": "Enter a URL to download MP3 files and play them instantly"
+}

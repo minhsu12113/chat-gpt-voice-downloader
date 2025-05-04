@@ -1,0 +1,59 @@
+{
+  "appTitle": "Voice Downloader",
+  "appDescription": "Enter a URL to download MP3 files and play them instantly",
+  "form": {
+    "placeholder": "Enter voice URL here...",
+    "download": "Download",
+    "downloading": "Downloading...",
+    "mb": "MB",
+    "mbps": "MB/s"
+  },
+  "player": {
+    "nowPlaying": "Now Playing",
+    "volume": "Volume"
+  },
+  "history": {
+    "title": "Download History",
+    "description": "Your previously downloaded MP3 files",
+    "empty": "No downloads yet. Download some MP3 files to see them here.",
+    "fileNotFound": "File not found",
+    "play": "Play",
+    "openFolder": "Open folder",
+    "rename": "Rename",
+    "delete": "Delete",
+    "ago": "{{time}} ago"
+  },
+  "tabs": {
+    "history": "Download History",
+    "settings": "Settings"
+  },
+  "rename": {
+    "title": "Rename File",
+    "description": "Enter a new name for this file. The file extension will be preserved.",
+    "label": "File name",
+    "cancel": "Cancel",
+    "confirm": "Rename"
+  },
+  "delete": {
+    "title": "Delete File",
+    "descriptionExists": "This will delete the file from your computer and remove it from history.",
+    "descriptionMissing": "This will remove the file from your history.",
+    "confirmation": "Are you sure you want to delete \"{{fileName}}\"?",
+    "cancel": "Cancel",
+    "confirm": "Delete"
+  },
+  "toast": {
+    "downloadComplete": "Download Complete",
+    "downloadCompleteDesc": "File saved as {{fileName}}",
+    "fileNotFound": "File not found",
+    "fileNotFoundDesc": "The file \"{{fileName}}\" no longer exists at the specified location.",
+    "errorPlayingFile": "Error playing file",
+    "fileRenamed": "File renamed",
+    "fileRenamedDesc": "File has been renamed to {{fileName}}",
+    "renameFailed": "Rename failed",
+    "fileDeleted": "File deleted",
+    "fileDeletedDesc": "\"{{fileName}}\" has been removed from history",
+    "deleteFailed": "Delete failed",
+    "folderOpenFailed": "Cannot open folder for a file that no longer exists."
+  }
+}
