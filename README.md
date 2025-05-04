@@ -1,7 +1,7 @@
 
 # ChatGPT Voice Downloader
 
-**ChatGPT Voice Downloader** is a lightweight tool that allows you to download audio responses from ChatGPT's voice feature directly from your browser.
+**ChatGPT Voice Downloader** is a lightweight tool that allows you to download audio responses from ChatGPT's voice.
 
 [![Support Me](https://img.shields.io/badge/Support-SUPPORT_ME.md-green)](./SUPPORT_ME.md)
 
