@@ -33,13 +33,6 @@
    npm run dev
    ```
 
-## 🧪 How to Use
-
-1. Open the ChatGPT interface in your browser (where the voice feature is available).
-2. Run the extension/tool and follow the on-screen instructions to download the voice response.
-
-> This project is designed to work alongside the ChatGPT voice feature currently available in supported browsers.
-
 ## 🗂️ Project Structure
 
 - `src/`: Contains the core source code (scripts, components, logic).
